@@ -1,17 +1,17 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0B2D5C,100:007BFF&height=240&section=header&text=YUSUF%20AL-QODRI&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=CLIMATE%20DATA%20%7C%20GEOSPATIAL%20%7C%20AI&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+<img src="./assets/profile-banner.png" width="100%" alt="Earth, climate and geospatial data banner" />
 
-# `Climate × Data × Earth`
+# YUSUF AL-QODRI
 
-### Geofisika dan Meteorologi Terapan IPB
+### Applied Meteorology · Climate Data · Geospatial Analytics
 
-*Turning environmental data into meaningful insights.*
+**Memahami pola lingkungan melalui data, analisis, dan visualisasi.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-0B1220?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yusufal-qodri)
-[![Python](https://img.shields.io/badge/Python-Data%20Analysis-14213D?style=for-the-badge&logo=python&logoColor=FFD43B)](https://www.python.org/)
-[![Portfolio](https://img.shields.io/badge/Explore-My%20Projects-075985?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yusufal-qodri?tab=repositories)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-0B1220?style=for-the-badge&logo=github)](https://github.com/yusufal-qodri)
+[![Projects](https://img.shields.io/badge/Explore-Projects-075985?style=for-the-badge&logo=github)](https://github.com/yusuf-al-qodri?tab=repositories)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Repository-1D4ED8?style=for-the-badge&logo=github)](https://github.com/yusuf-al-qodri/Portofolio-YusufAl-Qodri)
 
 </div>
 
@@ -21,133 +21,123 @@
 <tr>
 <td width="65%" valign="top">
 
-## `01` — About Me
+## ABOUT ME
 
-Halo! Saya mahasiswa **Geofisika dan Meteorologi Terapan IPB** yang tertarik pada pemanfaatan data untuk memahami pola iklim, cuaca, dan fenomena lingkungan.
+Halo! Saya mahasiswa **Geofisika dan Meteorologi Terapan IPB** dengan ketertarikan pada climate analytics, data science, dan geospatial analysis.
 
-Saya mengeksplorasi pengolahan data, visualisasi, dan analisis geospasial melalui proyek akademik maupun personal.
+Saya mengembangkan proyek akademik dan personal untuk mengeksplorasi data cuaca, memahami pola lingkungan, dan menyampaikan hasil analisis melalui peta, visualisasi, serta aplikasi interaktif.
 
-- **Climate Analytics** — eksplorasi data iklim dan cuaca.
-- **Data Science** — data processing, exploratory analysis, dan visualization.
-- **Geospatial Analysis** — pemetaan dan analisis jaringan sungai.
-- **Interactive Applications** — menyajikan hasil analisis dalam bentuk aplikasi.
+**Areas of Interest**
 
-Fokus saya adalah menghubungkan data, metode analisis, dan visualisasi agar hasilnya lebih mudah dipahami.
+- Climate & Weather Data Analysis
+- Python for Data Processing
+- Geospatial & Hydrological Analysis
+- Data Visualization
+- Machine Learning & AI
 
 </td>
 <td width="35%" valign="top">
 
-## `02` — Focus Areas
+## CURRENT FOCUS
 
-![Climate](https://img.shields.io/badge/Climate-Analysis-0B3D91?style=flat-square)
-![Weather](https://img.shields.io/badge/Weather-Data-075985?style=flat-square)
-![Geospatial](https://img.shields.io/badge/Geospatial-GIS-0369A1?style=flat-square)
-![Data Science](https://img.shields.io/badge/Data-Science-1D4ED8?style=flat-square)
-![AI](https://img.shields.io/badge/Artificial-Intelligence-4338CA?style=flat-square)
+**01 / Climate**
 
-### Current direction
+Eksplorasi data iklim dan curah hujan.
 
-Membangun proyek berbasis data yang terdokumentasi, mudah ditinjau, dan relevan dengan permasalahan nyata.
+**02 / Geospatial**
+
+Analisis jaringan sungai dan pemetaan.
+
+**03 / Data**
+
+Mengubah data menjadi informasi yang mudah dipahami.
 
 </td>
 </tr>
 </table>
 
-## `03` — Featured Projects
-
-<div align="center">
-
-### 🌧️ Probabilitas Hujan NTT
-
-<a href="https://projekmetklim-probabilitashujan.streamlit.app/">
-<img src="https://img.shields.io/badge/OPEN-LIVE%20APPLICATION-007BFF?style=for-the-badge&logo=streamlit&logoColor=white" />
-</a>
-<a href="https://github.com/yusuf-al-qodri/ProjekMetklim-ProbabilitasHujan">
-<img src="https://img.shields.io/badge/VIEW-SOURCE%20CODE-0F172A?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-Aplikasi berbasis Streamlit untuk mengeksplorasi probabilitas hujan di Nusa Tenggara Timur menggunakan data ERA5.
-
-**Highlight:** peta probabilitas hujan, filter musim dan tahun, serta eksplorasi hubungan ONI dengan curah hujan.
-
-`Python` `Streamlit` `ERA5` `Climate Analysis`
-
 ---
 
-### 🗺️ Ordo DAS Gede Pangrango
-
-<a href="https://github.com/yusuf-al-qodri/Ordo_DAS_Gede_Pangrango">
-<img src="https://img.shields.io/badge/EXPLORE-REPOSITORY-007BFF?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-Proyek analisis jaringan sungai dan orde aliran pada wilayah DAS Gede Pangrango menggunakan Python.
-
-**Highlight:** pengolahan jaringan sungai dan penyajian hasil analisis dalam bentuk peta.
-
-`Python` `GIS` `Hydrology` `River Network`
-
----
-
-### 🌍 Sistem Iklim Bumi
-
-<a href="https://nisasinta06.github.io/PBL-SPI/">
-<img src="https://img.shields.io/badge/OPEN-LIVE%20WEBSITE-007BFF?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-<a href="https://github.com/yusuf-al-qodri/SPI_KELOMPOK1">
-<img src="https://img.shields.io/badge/VIEW-SOURCE%20CODE-0F172A?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-Website interaktif untuk mengeksplorasi konsep sistem iklim bumi melalui simulasi dan visualisasi yang merespons perubahan parameter.
-
-**Highlight:** pembelajaran sistem iklim melalui eksplorasi interaktif. Proyek dikerjakan secara kolaboratif.
-
-`Climate System` `Interactive Simulation` `Data Visualization`
-
-</div>
-
----
-
-## `04` — Tech Stack
-
-<div align="center">
-
-**Programming & Data**
-
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" />
-
-**Analysis & Visualization**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![GIS](https://img.shields.io/badge/Geospatial-Analysis-075985?style=flat-square)
-
-</div>
-
-*Teknologi ditampilkan sebagai area kerja yang relevan dengan proyek. Detail library dan tools setiap proyek dapat diperiksa di repository masing-masing.*
-
----
-
-## `05` — Explore My Work
+## SELECTED PROJECTS
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
-### Repositories
+<a href="https://projekmetklim-probabilitashujan.streamlit.app/">
+<img src="https://placehold.co/720x360/071A33/60A5FA?text=RAINFALL+%2F+NTT" width="100%" alt="Rainfall probability project preview" />
+</a>
 
-Browse source code, notebooks, and project documentation.
+### 01. Probabilitas Hujan NTT
 
-[**Explore Repositories →**](https://github.com/yusufal-qodri?tab=repositories)
+Eksplorasi probabilitas hujan di Nusa Tenggara Timur menggunakan data ERA5.
+
+- Peta probabilitas hujan
+- Filter musim dan tahun
+- Eksplorasi hubungan ONI–curah hujan
+
+`Python` `Streamlit` `ERA5`
+
+[Live Application ↗](https://projekmetklim-probabilitashujan.streamlit.app/) · [Source Code ↗](https://github.com/yusuf-al-qodri/ProjekMetklim-ProbabilitasHujan)
 
 </td>
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
-### Portfolio
+<a href="https://github.com/yusuf-al-qodri/Ordo_DAS_Gede_Pangrango">
+<img src="https://placehold.co/720x360/071A33/60A5FA?text=WATERSHED+%2F+GIS" width="100%" alt="Watershed analysis project preview" />
+</a>
 
-Explore my projects and development journey.
+### 02. Ordo DAS Gede Pangrango
 
-[**View Portfolio Repository →**](https://github.com/yusuf-al-qodri/Portofolio-YusufAl-Qodri)
+Analisis jaringan sungai dan orde aliran pada wilayah DAS Gede Pangrango.
+
+- Analisis jaringan sungai
+- Klasifikasi orde aliran
+- Penyajian hasil dalam bentuk peta
+
+`Python` `GIS` `Hydrology`
+
+[Explore Repository ↗](https://github.com/yusuf-al-qodri/Ordo_DAS_Gede_Pangrango)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://nisasinta06.github.io/PBL-SPI/">
+<img src="https://placehold.co/720x360/071A33/60A5FA?text=EARTH+CLIMATE+SYSTEM" width="100%" alt="Earth climate system project preview" />
+</a>
+
+### 03. Sistem Iklim Bumi
+
+Website interaktif untuk mengeksplorasi konsep sistem iklim melalui perubahan parameter simulasi.
+
+- Visualisasi interaktif
+- Eksplorasi parameter
+- Proyek kolaboratif
+
+`Climate System` `Simulation` `Visualization`
+
+[Live Website ↗](https://nisasinta06.github.io/PBL-SPI/) · [Source Code ↗](https://github.com/yusuf-al-qodri/SPI_KELOMPOK1)
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/yusuf-al-qodri/Portofolio-YusufAl-Qodri">
+<img src="https://placehold.co/720x360/071A33/60A5FA?text=PERSONAL+PORTFOLIO" width="100%" alt="Personal portfolio project preview" />
+</a>
+
+### 04. Personal Portfolio
+
+Repository website portfolio untuk mendokumentasikan perjalanan belajar dan proyek.
+
+- Project showcase
+- Dokumentasi karya
+- Personal branding
+
+`Portfolio` `GitHub`
+
+[Explore Repository ↗](https://github.com/yusuf-al-qodri/Portofolio-YusufAl-Qodri)
 
 </td>
 </tr>
@@ -155,15 +145,58 @@ Explore my projects and development journey.
 
 ---
 
+## TECHNOLOGY STACK
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,55:0B2D5C,100:020617&height=130&section=footer" width="100%" />
+### Programming & Development
+
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" alt="Programming and development tools" />
+
+### Data & Visualization
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+<img src="https://img.shields.io/badge/Geospatial-Analysis-075985?style=for-the-badge" alt="Geospatial analysis" />
+
+</div>
+
+*Tools di atas merupakan teknologi yang relevan dengan proyek yang ditampilkan. Periksa dokumentasi setiap repository untuk detail implementasi.*
+
+---
+
+## EXPLORE MORE
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**GitHub Repositories**
+
+Jelajahi kode, analisis, dan proyek lainnya.
+
+[View All Repositories →](https://github.com/yusuf-al-qodri?tab=repositories)
+
+</td>
+<td align="center" width="50%">
+
+**Portfolio Website**
+
+Lihat pengembangan proyek dan karya lainnya.
+
+[View Portfolio Repository →](https://github.com/yusuf-al-qodri/Portofolio-YusufAl-Qodri)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,50:0B2D5C,100:020617&height=120&section=footer" width="100%" alt="Blue scientific footer" />
 
 **DATA × ANALYSIS × SOLUTION**
 
 *Exploring Earth's systems through data.*
 
-<sub>Built with curiosity, scientific thinking, and continuous learning.</sub>
-
 </div>
-
